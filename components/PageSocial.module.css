@@ -87,17 +87,21 @@
 }
 
 .linkedin .actionBgPane {
-  background: #0077b5;
+  /* background: #0077b5; */
+  background: #005b8e;
 }
 .linkedin:hover {
-  border-color: #0077b5;
+  /* border-color: #0077b5; */
+  border-color: #005b8e;
 }
 
 .github .actionBgPane {
-  background: #c9510c;
+  /* background: #c9510c; */
+  background: #4078c0;
 }
 .github:hover {
-  border-color: #c9510c;
+  /* border-color: #c9510c; */
+  border-color: #4078c0;
 }
 
 .youtube .actionBgPane {
