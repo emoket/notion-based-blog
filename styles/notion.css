@@ -101,7 +101,8 @@
 }
 
 .notion-collection-card-body {
-  padding: 10px;
+  padding: 10px 15px;
+  /* padding: 10px; */
 }
 
 /* only target safari */
@@ -119,7 +120,7 @@
   line-height: 1.5;
   font-style: italic;
   font-size: 1.2em;
-  border-left: 4px solid #67bdfc;
+  border-left: 4px solid #1e1e1e;
 }
 
 .notion-h1,
