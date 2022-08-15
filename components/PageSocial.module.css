@@ -87,28 +87,17 @@
 }
 
 .linkedin .actionBgPane {
-  /* background: #0077b5; */
-  background: #005b8e;
+  background: #0077b5;
 }
 .linkedin:hover {
-  /* border-color: #0077b5; */
-  border-color: #005b8e;
+  border-color: #0077b5;
 }
 
 .github .actionBgPane {
-  /* background: #c9510c; */
-  background: #4078c0;
+  background: #c9510c;
 }
 .github:hover {
-  /* border-color: #c9510c; */
-  border-color: #4078c0;
-}
-
-.youtube .actionBgPane {
-  background: #FF0000;
-}
-.youtube:hover {
-  border-color: #FF0000;
+  border-color: #c9510c;
 }
 
 .medium .actionBgPane {
@@ -116,13 +105,6 @@
 }
 .medium:hover {
   border-color: #00ab6c;
-}
-
-.newsletter .actionBgPane {
-  background: #777777;
-}
-.newsletter:hover {
-  border-color: #777777;
 }
 
 .email .actionBgPane {

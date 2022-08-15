@@ -25,10 +25,8 @@ export default siteConfig({
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  // defaultPageIcon: null,
-  defaultPageIcon: '🧑🏻‍💻',
-  // defaultPageCover: null,
-  defaultPageCover: 'https://www.notion.so/image/https%3A%2F%2Fwww.notion.so%2Fimages%2Fpage-cover%2Fgradients_11.jpg?width=400&userId=4e13acb9-2df3-4e3f-b61f-244d7643db71&cache=v2',
+  defaultPageIcon: 'https://transitivebullsh.it/page-icon.png',
+  defaultPageCover: 'https://transitivebullsh.it/page-cover.jpg',
   defaultPageCoverPosition: 0.5,
 
   // whether or not to enable support for LQIP preview images (optional)
