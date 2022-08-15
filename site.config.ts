@@ -25,7 +25,7 @@ export default siteConfig({
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: 'https://emoket.vercel.app/page-icon.png',
+  defaultPageIcon: '🧑🏻‍💻',
   defaultPageCover: 'https://emoket.vercel.app/page-cover.jpg',
   defaultPageCoverPosition: 0.5,
 
