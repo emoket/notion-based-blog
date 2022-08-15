@@ -25,8 +25,8 @@ export default siteConfig({
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: 'https://transitivebullsh.it/page-icon.png',
-  defaultPageCover: 'https://transitivebullsh.it/page-cover.jpg',
+  defaultPageIcon: 'https://emoket.vercel.app/page-icon.png',
+  defaultPageCover: 'https://emoket.vercel.app/page-cover.jpg',
   defaultPageCoverPosition: 0.5,
 
   // whether or not to enable support for LQIP preview images (optional)
@@ -54,7 +54,7 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'About',
-      pageId: '32be6d0d196f4b2f9d95f83fb894b9cd'
+      pageId: 'bf11e78e7d194f489ab3c0ee3a6052c6'
     },
     // {
     //   title: 'Contact',
