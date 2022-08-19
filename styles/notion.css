@@ -39,13 +39,12 @@
 }
 
 .notion-asset-caption {
-  text-align: center;
-  margin-top: -1rem;
+  text-align: left;
+  margin-top: -0.5rem;
 }
 
 .notion-asset-wrapper {
   margin-top: 1em;
-  margin-bottom: 1em;
 }
 
 .notion-asset-wrapper-video > div,
