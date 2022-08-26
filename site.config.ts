@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'L_earn',
-  domain: 'emoket.learn.it',
+  domain: 'blog.emoket.vercel.app',
   author: 'emoket',
 
   // open graph metadata (optional)
