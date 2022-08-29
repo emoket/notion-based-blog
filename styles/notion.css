@@ -14,7 +14,9 @@
 
 .notion-page {
   padding-bottom: calc(max(5vh, 32px)) !important;
-  line-height: 1.65;
+  font-size: 1.125rem;
+  line-height: 1.8;
+  color: #424242;
 }
 
 .index-page,
@@ -38,9 +40,12 @@
   padding: 0.5em 2px;
 }
 
+.notion-text b {
+  font-family: 'NanumSquareRoundB';
+}
+
 .notion-asset-caption {
-  text-align: left;
-  margin-top: -0.5rem;
+  text-align: center;
 }
 
 .notion-asset-wrapper {
@@ -74,6 +79,7 @@
 .notion-gallery-grid .notion-page-title-text {
   font-size: 2em;
   white-space: unset;
+  font-family: 'NanumSquareRoundB';
 }
 
 .notion-gallery-grid .notion-collection-card-property {
@@ -139,6 +145,7 @@
 .notion-h2,
 .notion-h3 {
   margin-bottom: 0.25em;
+  font-family: 'NanumSquareRoundB';
 }
 
 .notion-callout {
@@ -177,6 +184,7 @@
 .notion-title {
   display: block;
   text-align: center;
+  font-family: 'NanumSquareRoundEB';
 }
 
 .notion-collection-row {
@@ -190,6 +198,10 @@
 .notion-collection-row-property .notion-property {
   display: flex;
   justify-content: center;
+}
+
+span.notion-property.notion-property-date {
+  font-family: 'NanumSquareRoundL';
 }
 
 .notion-collection-row-value {
@@ -402,6 +414,11 @@
   .dark-mode .notion-header {
     background: hsla(203, 8%, 20%, 0.8);
   }
+}
+
+.notion-external-title {
+  color: var(--fg-color);
+  font-family: 'NanumSquareRoundB';
 }
 
 .notion-bookmark:hover {
