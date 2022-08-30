@@ -52,13 +52,13 @@ export default siteConfig({
   // navigationStyle: 'default',
   navigationStyle: 'custom',
   navigationLinks: [
-    // {
-    //   title: 'About',
-    //   pageId: '32be6d0d196f4b2f9d95f83fb894b9cd'
-    // },
-    // {
-    //   title: 'Contact',
-    //   pageId: '45f4674c3a264b41aad60c4e98cc90f9'
-    // }
+    {
+      title: 'About',
+      pageId: '09d56945c28f451cba2e66bb405d0929'
+    },
+    {
+      title: 'Reading-hub',
+      pageId: '1a6b155cf7e64cdcbae2d4ee33e3237a'
+    }
   ]
 })
