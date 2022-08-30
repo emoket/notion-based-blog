@@ -58,7 +58,7 @@ export default siteConfig({
     },
     {
       title: 'Reading-hub',
-      pageId: '1a6b155cf7e64cdcbae2d4ee33e3237a'
+      pageId: 'Reading-Hub-390310ca9d2145a897ea685b9a27d9fc'
     }
   ]
 })
