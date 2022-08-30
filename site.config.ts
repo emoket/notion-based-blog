@@ -56,9 +56,9 @@ export default siteConfig({
       title: 'About',
       pageId: '09d56945c28f451cba2e66bb405d0929'
     },
-    {
-      title: 'Reading-hub',
-      pageId: 'Reading-Hub-390310ca9d2145a897ea685b9a27d9fc'
-    }
+    // {
+    //   title: 'Contact',
+    //   pageId: '45f4674c3a264b41aad60c4e98cc90f9'
+    // }
   ]
 })
